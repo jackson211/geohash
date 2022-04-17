@@ -1,3 +1,3 @@
 # geohash
 
-Encode two dimensional coordinates into hilbert curve
+Encode two dimensional coordinates into geohash curve
